@@ -1,0 +1,7 @@
+.editor_view {
+  display: flex;
+  justify-content: space-between;
+}
+.canvas_container {
+  border: 1px solid slategrey;
+}
